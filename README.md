@@ -1,14 +1,14 @@
-# quizbee
-GROUP 2
-Web app for quizzing!!
+# Impulse
 
-Change SITEROOT (PATH) IN initialize.php file located in the include directory
+Web app for messaging!!
 
-configure your database password in the config. php file.
+This is an online messaging app mainly for schools. 
+Where by a course page is created and announcements are sent to group members.
+Now a text message is sent to even a user who is offline in the form of text messages.
 
-        GROUP MEMBERS
-CHRISTIAN BOSSO     10562851
-APAU GEORGE SEDEM   10570683
-JENNIFER TETTEVI    10581620
-ARMAH JAMES K C     10562512
-ADDOTEY DANIEL      10558699
+Other Features:
+1.Courses selection
+2.Priviledges selection.
+3.Settings Modification.
+4. Profile picture updation.
+5.A real android app.
