@@ -1,8 +1,8 @@
 # Impulse
 
-Web app for messaging!!
+Web app for campus messaging!!
 
-This is an online messaging app mainly for schools. 
+This is an online messaging app mainly for campuses. 
 Where by a course page is created and announcements are sent to group members.
 Now a text message is sent to even a user who is offline in the form of text messages.
 
